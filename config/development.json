@@ -1,0 +1,6 @@
+{
+    "app-name": "API Rest with Express - Develop",
+    "database": {
+        "host": "dev-db-server"
+    }
+}

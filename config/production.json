@@ -1,0 +1,6 @@
+{
+    "app-name": "API Rest with Express - Production",
+    "database": {
+        "host": "prod-db-server"
+    }
+}
